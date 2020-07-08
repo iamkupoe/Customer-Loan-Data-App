@@ -6,7 +6,7 @@ class UserItem extends React.Component {
   // import React, {Component} from "react".
   constructor(props) {
     super(props);
-  }
+  };
 
   render() {
     return (

@@ -88,7 +88,7 @@ class App extends React.Component {
             <input type="num" placeholder="Repayment Amount" value={this.state.repayment} 
             onChange={this.handleRepaymentChange} style={{marginLeft:'30px', height:'30px', borderRadius:'5px', width:'300px', marginTop:'15px', borderColor:'turquoise', backgroundColor:'lightgray'}} />
             <br/><br/>
-            <input type="submit" style={{marginLeft:'130px', width:'100px', height:'30px', borderRadius:'10px', backgroundColor:'blue', fontSize:'18px', color:'red', color:'white', borderColor:'blue'}}/>
+            <input type="submit" style={{marginLeft:'130px', width:'100px', height:'30px', borderRadius:'10px', backgroundColor:'blue', fontSize:'18px', color:'red', color:'white', borderColor:'blue'}} />
           </form>
         </div>
 
